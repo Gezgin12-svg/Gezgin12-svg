@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm MERVE</h1>
 <h3 align="center">A passionate frontend developer from TURKEY</h3>
 
-- 🔭 I’m currently working on [FİLM SİTESİ](file:///Users/merve/Desktop/film%20sitesi/index.html)
+- 🔭 I’m currently working on react
 
 - 📫 How to reach me **gezginyazilimci09@gmail.com**
 
