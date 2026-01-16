@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm MERVE</h1>
 <h3 align="center">A passionate frontend developer from TURKEY</h3>
 
-- 🔭 I’m currently developing on **full stack developer**
+- 🔭 I am currently working towards becoming a full-stack developer.**
 
 - 🌱 I’m currently learning **React,Vue..**
 
